@@ -1,0 +1,113 @@
+
+@media (min-width: 601px) and (max-width: 1000px)  {
+ 	
+ body{
+ 	font-family: arial,sans-serif;
+ }
+ aside{
+ 	float: left;
+ 	width: 40%;
+ 	clear: both;
+ }
+
+ section{
+
+    float: left;
+    width: 40%
+ }
+
+ #formacion{
+ 	width: 100%
+ }
+
+ #experiencia{
+ 	width: 100%
+ }
+}
+
+#menu{
+	background-color: #FAEBD7  ;
+	position: fixed;
+	top: -20px;
+	width: 100%;
+	transition: top 0.3s;
+}
+
+#menu li {
+	display: inline;
+}
+
+#menu a{
+color: black;
+text-decoration: none;
+float: right;
+padding: 20px;
+font-size: 18px;
+margin-right:  20px;
+}
+
+#menu h1{
+	text-align: left;
+	margin-left: 50px;
+	font-family: 'Roboto', sans-serif;
+	position: absolute;
+}
+
+#menu a:hover{
+background-color:black;
+color: white;
+ }
+
+ img{
+ 	border-radius: 100%;
+ 	width: 100%
+ }
+
+ #foto{
+ left: 100%;	
+ width: 30%;
+ float: left;
+ margin-left: 20px;
+ mar
+ }
+
+#datos{	
+width: 45%;
+float: 	left;
+margin: 90px;
+font-size: 20px;
+}
+
+#datos a{
+	text-decoration: none;
+}
+
+
+#c h1{	
+left: 30px;
+text-align: center;
+margin: 70px;
+font-size: 30px;
+font-family: 'Roboto', sans-serif;
+}
+
+#c{
+float: left;
+left: 20px;
+margin: 30px;
+font-size: 20px;
+
+}
+
+#c p{
+display: inline;	
+}
+
+ footer{
+ 	clear: both;
+ 	font-size: 20px;
+ }
+
+ body{
+ background-color: #F4F5EC  ;
+ }
