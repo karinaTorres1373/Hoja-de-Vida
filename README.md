@@ -1,2 +1,2 @@
-# Proyecto programacion web 
+# Proyecto programación web 
 Hoja de Vida
