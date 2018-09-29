@@ -63,50 +63,47 @@ color: white;
  	width: 100%
  }
 
- #foto{
+ .foto{
  left: 100%;	
- width: 30%;
- float: left;
- margin-left: 20px;
- mar
+ width: 20%;
+ margin-left: 35%;
+ margin-top: 5%;
  }
 
-#datos{	
-width: 45%;
-float: 	left;
-margin: 90px;
+.datos{	
 font-size: 20px;
+margin-left: 18%;
+margin-right: 18%;
+text-align: center;
 }
 
-#datos a{
+.datos a{
 	text-decoration: none;
 }
 
 
-#c h1{	
-left: 30px;
+.c {	
 text-align: center;
+left: 30px;
 margin: 70px;
-font-size: 30px;
+font-size: 18px;
 font-family: 'Roboto', sans-serif;
 }
 
-#c{
-float: left;
-left: 20px;
-margin: 30px;
-font-size: 20px;
 
+.proyecto{
+ text-align: center;
+left: 30px;
+margin: 70px;
+font-size: 18px;
+font-family: 'Roboto', sans-serif;
 }
 
-#c p{
-display: inline;	
-}
-
- footer{
- 	clear: both;
- 	font-size: 20px;
- }
+.contacto{
+	background-color: #FAEBD7 ; 
+    position: all;
+    font-size: 20px;
+    }
 
  body{
  background-color: #F4F5EC  ;
